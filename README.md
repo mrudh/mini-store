@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# About Mini store application
+
+This mini retail store application has been developed using React.js, with its primary emphasis on utilizing the Context API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
